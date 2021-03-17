@@ -31,3 +31,14 @@ Este proyecto es simplemente un hola mundo de una aplicación web en  Java utili
 Para poder utilizarlo hay que desplegarlo en un Tomcat y acceder a: http://localhost:8080/hello-java-0.1.0/greeting 
 Con el parámetro name se puede indicar el nombre de a quien saluda: http://localhost:8080/hello-java-0.1.0/greeting?name=egc
 
+commit 25ccbed064256caf1586fbfcaa64bcaea9f83cbd
+Author: Ema16 <eamperez89@gmail.com>
+Date:   Tue Mar 16 20:14:07 2021 -0600
+
+    Se agrego bye.html y GreetingController en la rama addBye
+
+commit 9da36e72dd89d7fe8615860932ecaec0d3548b08
+Author: Ema16 <eamperez89@gmail.com>
+Date:   Tue Mar 16 19:58:57 2021 -0600
+
+    Primer commit - creando repositorio
